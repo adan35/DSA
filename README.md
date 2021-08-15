@@ -1,3 +1,3 @@
 Circular linked list:
 Circular linked list is a linked list where all nodes are connected to form a circle. There is no NULL at the end. A circular linked list can be a singly circular linked list 
-or doubly circular linked list. ... We can maintain a pointer to the last inserted node and front can always be obtained as next of last.
+or doubly circular linked list.

@@ -1,0 +1,2 @@
+class FullStackError(Exception):
+    pass

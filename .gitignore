@@ -6,3 +6,7 @@ Scripts
 Include
 venv
 venv
+.idea/
+__pycache__/
+image/
+venv/
